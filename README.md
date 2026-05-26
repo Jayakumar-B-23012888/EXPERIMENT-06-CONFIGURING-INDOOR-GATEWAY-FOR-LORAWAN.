@@ -1,4 +1,7 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+# NAME : JAYAKUMAR B
+# REG NO : 212223040073
+# DATE : 22-05-2026
 
 ## Aim: 
 
@@ -119,6 +122,14 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/88d8574d-2083-4259-9c78-562f6f54960d" />
+
+
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/4f7f9c5f-e737-43c2-8930-52f29b38f8bd" />
+
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e7f2f9c2-5aad-47df-a911-1d3c96c76a45" />
+
 
 
 
